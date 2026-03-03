@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/decomposition/static/css/main.42d8428e.css",
+    "main.js": "/decomposition/static/js/main.099ea569.js",
+    "index.html": "/decomposition/index.html",
+    "main.42d8428e.css.map": "/decomposition/static/css/main.42d8428e.css.map",
+    "main.099ea569.js.map": "/decomposition/static/js/main.099ea569.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42d8428e.css",
+    "static/js/main.099ea569.js"
+  ]
+}
